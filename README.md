@@ -6,14 +6,6 @@ The user uses the arrow keys to move a "player" around. A player needs to shoot 
 The game ends when the enemy manages to leave the screen without being shot by the player. The goal is to score as many points as possible before that happens.
 
 
-<p float="left">
-<img src="images/shooterIntro.png" width="200">
-<img src="images/shooterGame.png" width="200">
-<img src="images/shooterGame2.png" width="200">
-<img src="images/shooterPaused.png" width="200">
-<img src="images/shooterGameOver.png" width="200">
-</p>
-
 ## Built with
 - Python (Pygame)
 
